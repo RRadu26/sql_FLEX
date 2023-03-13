@@ -1,2 +1,2 @@
 # sql_FLEX
-A lexical analyzer for simple sql commands 
+A lexical analyser for simple sql commands. Made using FLEX.
